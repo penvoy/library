@@ -1,4 +1,4 @@
-from library import Library
+from modules.library import Library
 
 
 def main():

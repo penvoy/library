@@ -3,7 +3,7 @@ import os
 from unittest.mock import patch
 import io
 
-from library import Library, Book
+from modules.library import Library
 
 class TestLibrary(unittest.TestCase):
     def setUp(self):
